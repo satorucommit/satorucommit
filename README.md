@@ -63,13 +63,6 @@
 
 ---
 
-### 📂 Featured Projects
-<p align="center">
-  <a href="https://github.com/satorucommit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satorucommit&repo=Machine-Learning-Projects&theme=tokyonight" /></a>
-  <a href="https://github.com/satorucommit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satorucommit&repo=AI-Vision-Models&theme=tokyonight" /></a>
-</p>
-
----
 
 ### 💬 Quote of the Day
 <p align="center">
