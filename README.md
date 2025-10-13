@@ -30,7 +30,7 @@
   <a href="https://www.kaggle.com/vedantbadgujar" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="50"/>
   </a>
-  <a href="https://leetcode.com/u/VedantBadgujar/" target="blank">
+  <a href="https://leetcode.com/u/Ved_commit/" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="50"/>
   </a>
 </p>
