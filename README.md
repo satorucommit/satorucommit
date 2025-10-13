@@ -21,17 +21,16 @@
 </p>
 
 ---
-
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/vedant-badgujar-a546bb298/" target="blank">
+  <a href="https://www.linkedin.com/in/vedant-badgujar-a546bb298/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
   </a>
-  <a href="https://www.kaggle.com/vedantbadgujar" target="blank">
+  <a href="https://www.kaggle.com/vedantbadgujar" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="50"/>
   </a>
-  <a href="https://leetcode.com/u/Ved_commit/" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="50"/>
+  <a href="https://leetcode.com/u/Ved_commit/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="50" style="filter: invert(52%) sepia(70%) saturate(3103%) hue-rotate(1deg) brightness(102%) contrast(101%);"/>
   </a>
 </p>
 
