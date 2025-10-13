@@ -2,9 +2,9 @@
 <h3 align="center">A passionate AIML Developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedu2486&label=Profile%20views&color=0e75b6&style=flat" alt="vedu2486" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vsatorucommit&label=Profile%20views&color=0e75b6&style=flat" alt="satorucommit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedu2486" alt="vedu2486" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satorucommit" alt="satorucommit" /></a> </p>
 
 - 🌱 I’m currently learning **Python lib/Machine learning**
 
