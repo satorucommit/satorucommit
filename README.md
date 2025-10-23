@@ -97,8 +97,7 @@
 
 ---
 
-### 🕒 Advanced Real-Time Metrics (Optional)
+### 🕒 Advanced Real-Time Metrics 
 You can even add this dynamic metrics card (auto-updates daily):
 
-```markdown
 ![Metrics](https://metrics.lecoq.io/satorucommit?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&config.timezone=Asia%2FKolkata)
