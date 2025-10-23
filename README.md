@@ -1,30 +1,24 @@
-<!-- 🌟 Professional GitHub Profile README for Vedant Yashpal Badgujar -->
-
+<!-- 🌟 Dynamic & Professional GitHub Profile README for Vedant Yashpal Badgujar -->
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" 
-       alt="Animated Hello" 
-       width="80%" 
-       style="max-width: 900px; height: auto; border-radius: 12px;">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"
+       alt="Animated Hello"
+       width="80%"
+       style="max-width:900px; height:auto; border-radius:12px;">
 </p>
-
-<!-- -------------------------------------------------------------------------- -->
-<!-- Octocat Section -->
-<!-- -------------------------------------------------------------------------- -->
-
-
 
 <h1 align="center">Hi 👋, I'm Vedant Yashpal Badgujar</h1>
 <h3 align="center">🚀 Passionate AI/ML Developer | Python Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satorucommit&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=satorucommit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/satorucommit?tab=followers">
-    <img src="https://img.shields.io/github/followers/satorucommit?label=Followers&style=social" alt="followers" />
+    <img src="https://img.shields.io/github/followers/satorucommit?label=Followers&style=social" alt="Followers" />
   </a>
 </p>
 
 ---
+
 ### 🧠 About Me  
 <p align="center">
 🌱 Currently exploring **Machine Learning**, **Deep Learning**, and **Full-Stack Development** <br/>
@@ -34,6 +28,7 @@
 </p>
 
 ---
+
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vedant-badgujar-a546bb298/" target="_blank">
@@ -56,14 +51,26 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Real-Time GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satorucommit&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satorucommit&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=satorucommit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=satorucommit&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satorucommit&layout=compact&theme=tokyonight&hide_border=true" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satorucommit&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="150em"/>
+</p>
+
+---
+
+### 🧩 Contribution Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satorucommit&theme=tokyonight" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satorucommit&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satorucommit&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
@@ -75,7 +82,6 @@
 
 ---
 
-
 ### 💬 Quote of the Day
 <p align="center">
   <i>"The best way to predict the future is to create it."</i> — <b>Peter Drucker</b>
@@ -83,9 +89,16 @@
 
 ---
 
-
 <p align="center">
   <a href="https://github.com/satorucommit">
     <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos!-yellow?style=for-the-badge" />
   </a>
 </p>
+
+---
+
+### 🕒 Advanced Real-Time Metrics (Optional)
+You can even add this dynamic metrics card (auto-updates daily):
+
+```markdown
+![Metrics](https://metrics.lecoq.io/satorucommit?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&config.timezone=Asia%2FKolkata)
