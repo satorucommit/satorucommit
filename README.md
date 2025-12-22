@@ -2,14 +2,14 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"
        alt="Animated Hello"
        width="100%"
-       style="max-width:850px; border-radius:15px; box-shadow: 0px 0px 25px rgba(14, 117, 182, 0.6);">
+       style="max-width:850px; border-radius:15px; box-shadow: 0px 0px 30px rgba(14, 117, 182, 0.5);">
 </div>
 
 <h1 align="center">Hi 👋, I'm Vedant Yashpal Badgujar</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Generative+AI+Engineering+%26+LLMs;Machine+Learning+Researcher;Python+Developer+%26+Data+Scientist;Building+Intelligent+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Generative+AI+Engineering+%26+LLMs;Machine+Learning+Researcher;Python+Developer+%26+AI+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,9 +19,6 @@
   </a>
   <a href="https://www.kaggle.com/vedantbadgujar" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" />
   </a>
   <a href="https://leetcode.com/u/Ved_commit/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
@@ -40,7 +37,7 @@
 
   <br/>
   
-  I am a passionate developer focusing on **Generative AI**, **Transformers**, and **Deep Learning**. My goal is to bridge the gap between complex AI models and real-world applications.
+  I am a passionate developer focusing on **Generative AI** and **Deep Learning**. My goal is to bridge the gap between complex AI models and real-world applications.
 
 </div>
 
@@ -64,9 +61,9 @@
 
 ---
 
-### 🐍 The Contribution Snake
+### 📈 Live Coding Frequency
 <div align="center">
-  <img src="https://github.com/satorucommit/satorucommit/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satorucommit&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
