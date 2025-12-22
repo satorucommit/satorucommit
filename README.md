@@ -1,100 +1,105 @@
-<!-- 🌟 Dynamic & Professional GitHub Profile README for Vedant Yashpal Badgujar -->
-
-<p align="center">
+<div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"
        alt="Animated Hello"
-       width="80%"
-       style="max-width:900px; height:auto; border-radius:12px;">
-</p>
+       width="100%"
+       style="max-width:850px; border-radius:15px; box-shadow: 0px 0px 25px rgba(14, 117, 182, 0.6);">
+</div>
 
 <h1 align="center">Hi 👋, I'm Vedant Yashpal Badgujar</h1>
-<h3 align="center">🚀 Passionate AI/ML Developer | Python Enthusiast | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satorucommit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/satorucommit?tab=followers">
-    <img src="https://img.shields.io/github/followers/satorucommit?label=Followers&style=social" alt="Followers" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Generative+AI+Engineering+%26+LLMs;Machine+Learning+Researcher;Python+Developer+%26+Data+Scientist;Building+Intelligent+Solutions" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
----
-
-### 🧠 About Me  
-<p align="center">
-🌱 Currently exploring **Machine Learning**, **Deep Learning**, and **Full-Stack Development** <br/>
-💬 Ask me about **Python, Data Science, and AI projects** <br/>
-📫 Reach me via <a href="https://www.linkedin.com/in/vedant-badgujar-a546bb298/" target="_blank"><b>LinkedIn</b></a> <br/>
-⚡ Fun fact: <i>I love interacting with new people and sharing ideas 😄</i>
-</p>
-
----
-
-### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vedant-badgujar-a546bb298/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/vedantbadgujar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="50"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" />
   </a>
   <a href="https://leetcode.com/u/Ved_commit/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="50" style="filter: invert(52%) sepia(70%) saturate(3103%) hue-rotate(1deg) brightness(102%) contrast(101%);"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="mailto:vedantb3705@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs,mongodb,postgres,git,figma,opencv,pytorch,tensorflow,sklearn,seaborn,pandas" />
-</p>
+### 🧠 Intelligence & Innovations
+<div align="center">
+  
+  > *"Artificial Intelligence is not about replacing humans. It’s about amplifying human potential."*
+
+  <br/>
+  
+  I am a passionate developer focusing on **Generative AI**, **Transformers**, and **Deep Learning**. My goal is to bridge the gap between complex AI models and real-world applications.
+
+</div>
 
 ---
 
-### 📊 Real-Time GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satorucommit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=satorucommit&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180em"/>
-</p>
+### ⚡ AI & Tech Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satorucommit&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="150em"/>
-</p>
+<div align="center">
+  
+  **🤖 AI & Data Science Core**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,seaborn,anaconda&theme=dark" />
+  
+  <br/><br/>
+  
+  **💻 Development Stack**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css,react,nextjs,nodejs,mongodb,postgres,git,docker,linux&theme=dark&perline=10" />
 
----
-
-### 🧩 Contribution Summary
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satorucommit&theme=tokyonight" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satorucommit&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satorucommit&theme=tokyonight" alt="Most Commit Language" />
-</p>
+</div>
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=satorucommit&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-
-</p>
-
----
-
-### 💬 Quote of the Day
-<p align="center">
-  <i>"The best way to predict the future is to create it."</i> — <b>Peter Drucker</b>
-</p>
+### 🐍 The Contribution Snake
+<div align="center">
+  <img src="https://github.com/satorucommit/satorucommit/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+</div>
 
 ---
 
-<p align="center">
+### 📊 Metric Analytics
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=satorucommit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" width="450px"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=satorucommit&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&bg_color=0d1117" width="450px"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satorucommit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" width="60%" />
+</div>
+
+---
+
+### 🏆 Trophies
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=satorucommit&theme=tokyonight&no-frame=true&margin-w=10&no-bg=true" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
   <a href="https://github.com/satorucommit">
     <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos!-yellow?style=for-the-badge" />
   </a>
-</p>
-
----
-
+</div>
