@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Generative+AI+Engineering+%26+LLMs;Frontend+Developer+%26+UI+Designer;Machine+Learning+Researcher;Building+Intelligent+%26+Beautiful+Websites" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Generative+AI+Engineering+%26+LLMs;Frontend+Developer+%26+UI+Designer;Generative+AI+Researcher;Building+Intelligent+%26+Beautiful+Websites" alt="Typing SVG" />
   </a>
 </div>
 
@@ -43,35 +43,35 @@
 
 ---
 
-### ⚡ The Full-Stack Arsenal
-
-<div align="center">
-
-  **🤖 AI & Data Science Core**
-  <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,seaborn,anaconda&theme=dark" />
-  
-  <br/><br/>
-
-  **🎨 Frontend Engineering & UI/UX**
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css,js,ts,figma&theme=dark&perline=10" />
-
-  <br/><br/>
-  
-  **🛠️ Backend & Infrastructure**
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,git,docker,linux,postman&theme=dark" />
-
-</div>
-
----
-
 ### 📈 Contribution Visualization
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satorucommit&theme=tokyonight" width="100%" alt="Detailed Summary" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satorucommit&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
+
+---
+
+### ⚡ The Full-Stack Arsenal
+
+<div align="center">
+
+  **🤖 AI & GenAI Core**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,seaborn,anaconda&theme=dark" />
+  
+  <br/><br/>
+
+  **🎨 Frontend Mastery & UI/UX**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css,js,ts,figma&theme=dark&perline=10" />
+
+  <br/><br/>
+  
+  **🛠️ Systems & Infrastructure**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,git,docker,linux,postman&theme=dark" />
+
 </div>
 
 ---
@@ -96,7 +96,7 @@
 
 ---
 
-### 🏆 Trophies
+### 🏆 Achievements
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=satorucommit&theme=tokyonight&no-frame=true&margin-w=10&no-bg=true" alt="GitHub Trophies" />
 </div>
