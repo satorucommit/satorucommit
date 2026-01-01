@@ -7,8 +7,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Generative+AI+Engineering+%26+LLMs;Machine+Learning+Researcher;Python+Developer+%26+AI+Enthusiast;Frontend+Developer;Building+Intelligent+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Generative+AI+Engineering+%26+LLMs;Frontend+Developer+%26+UI+Designer;Machine+Learning+Researcher;Building+Intelligent+%26+Beautiful+Websites" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,32 +28,40 @@
 
 ---
 
-### 🧠 Intelligence & Innovations
+### 🧠 Neural Networks & 🎨 Pixel Perfect
 <div align="center">
   
-  > *"Artificial Intelligence is not about replacing humans. It’s about amplifying human potential."*
+  > *"Artificial Intelligence is the engine; Design is the body. I build both."*
 
   <br/>
   
-  I am a passionate developer focusing on **Generative AI** and **Deep Learning**. My goal is to bridge the gap between complex AI models and real-world applications.
+  I am a passionate developer bridging the gap between **Complex AI Models** and **Beautiful User Interfaces**. 
+  <br/>
+  I specialize in building **Generative AI** solutions wrapped in **Responsive, Modern Frontend Architectures**.
 
 </div>
 
 ---
 
-### ⚡ AI & Tech Arsenal
+### ⚡ The Full-Stack Arsenal
 
 <div align="center">
-  
+
   **🤖 AI & Data Science Core**
   <br/>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,seaborn,anaconda&theme=dark" />
   
   <br/><br/>
-  
-  **💻 Development Stack**
+
+  **🎨 Frontend Engineering & UI/UX**
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css,react,nextjs,nodejs,mongodb,postgres,git,docker,linux&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css,js,ts,figma&theme=dark&perline=10" />
+
+  <br/><br/>
+  
+  **🛠️ Backend & Infrastructure**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,git,docker,linux,postman&theme=dark" />
 
 </div>
 
@@ -99,4 +106,3 @@
     <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos!-yellow?style=for-the-badge" />
   </a>
 </div>
-
