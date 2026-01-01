@@ -28,17 +28,26 @@
 
 ---
 
-### 🧠 Neural Networks & 🎨 Pixel Perfect
+<h3 align="center">🧠 Neural Networks & 🎨 Pixel Perfect</h3>
+
 <div align="center">
-  
-  > *"Artificial Intelligence is the engine; Design is the body. I build both."*
-
-  <br/>
-  
-  I am a passionate developer bridging the gap between **Complex AI Models** and **Beautiful User Interfaces**. 
-  <br/>
-  I specialize in building **Generative AI** solutions wrapped in **Responsive, Modern Frontend Architectures**.
-
+<table border="0">
+  <tr>
+    <td width="50%" align="left" valign="center">
+      <br>
+       <blockquote>
+        <i>"Artificial Intelligence is the engine; Design is the body. I build both."</i>
+      </blockquote>
+      <br>
+      I am a passionate developer bridging the gap between <b>Complex AI Models</b> and <b>Beautiful User Interfaces</b>.
+      <br><br>
+      I specialize in building <b>Generative AI</b> solutions wrapped in <b>Responsive, Modern Frontend Architectures</b>.
+    </td>
+    <td width="50%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86043cf81a6e.gif" width="250" alt="AI Particle Brain">
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -100,6 +109,10 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
 
 <div align="center">
   <a href="https://github.com/satorucommit">
