@@ -67,13 +67,11 @@
 
 ---
 
-### 📈 Live Coding Frequency
+### 📈 Contribution Visualization
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satorucommit&theme=tokyonight" width="100%" alt="Detailed Summary" />
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satorucommit&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/satorucommit/satorucommit/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
