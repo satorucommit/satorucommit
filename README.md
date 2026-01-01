@@ -72,6 +72,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satorucommit&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/satorucommit/satorucommit/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
 ---
 
 ### 📊 Metric Analytics
@@ -102,11 +106,6 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/satorucommit">
-    <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos!-yellow?style=for-the-badge" />
-  </a>
-
-  <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
 
