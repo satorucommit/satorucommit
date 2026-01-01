@@ -7,7 +7,8 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Generative+AI+Engineering+%26+LLMs;Machine+Learning+Researcher;Python+Developer+%26+AI+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Generative+AI+Engineering+%26+LLMs;Machine+Learning+Researcher;Python+Developer+%26+AI+Enthusiast;Frontend+Developer;Building+Intelligent+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
