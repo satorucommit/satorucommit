@@ -58,7 +58,8 @@
 
   **🤖 AI & GenAI Core**
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,pandas,seaborn,anaconda&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,pandas,seaborn,anaconda,fastapi&theme=dark" />
+  
   
   <br/><br/>
 
@@ -72,6 +73,14 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,git,docker,linux,postman&theme=dark" />
 
+  **LLM Stack**
+  <br/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  
+  <br/><br/>
 </div>
 
 ---
