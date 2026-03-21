@@ -58,7 +58,7 @@
 
   **🤖 AI & GenAI Core**
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,pandas,seaborn,anaconda,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,anaconda,fastapi&theme=dark" />
   
   
   <br/><br/>
@@ -73,6 +73,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,git,docker,linux,postman&theme=dark" />
 
+   
   **LLM Stack**
   <br/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
