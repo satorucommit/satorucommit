@@ -112,7 +112,3 @@
     <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos!-yellow?style=for-the-badge" />
   </a>
 </div>
-
-![](https://github-readme-stats.vercel.app/api?username=satorucommit&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=satorucommit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=satorucommit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
