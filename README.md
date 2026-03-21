@@ -58,7 +58,7 @@
 
   **🤖 AI & GenAI Core**
   <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,seaborn,anaconda&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,pandas,seaborn,anaconda&theme=dark" />
   
   <br/><br/>
 
@@ -70,7 +70,7 @@
   
   **🛠️ Systems & Infrastructure**
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,git,docker,linux,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,git,docker,linux,postman&theme=dark" />
 
 </div>
 
