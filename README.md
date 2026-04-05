@@ -85,74 +85,51 @@
 </div>
 
 <br/>
-
 <h2 align="center">🎯 UI Hub & Featured Projects</h2>
-
 <div align="center">
-
-  <h3>🚀 UI Hub – Design Meets Interaction</h3>
-  <p>
-    A curated collection of modern, aesthetic, and interactive UI components 
-    built with <b>Next.js, Tailwind & 3D Web Experiences</b>.
-  </p>
-
-  <a href="https://github.com/satorucommit/VED-S-UI-HUB" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20UI%20Hub-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
-  <br/><br/>
-
-  <img src="https://user-images.githubusercontent.com/74038190/240885217-6d9b9c55-1d3c-4a66-8c2f-0dba0a7c3c6b.gif" width="400"/>
-
-  <br/><br/>
-
-  <h3>✨ Featured Projects</h3>
-
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/satorucommit/SmartDoc-Formatter">
-          <h4>🧠 SmartDoc Formatter</h4>
-        </a>
-        <p>AI-powered document formatter that converts raw text into structured, readable content.</p>
-        <a href="https://github.com/satorucommit/SmartDoc-Formatter">
-          <img src="https://user-images.githubusercontent.com/74038190/213760697-3b0f3b75-8c4d-4f6b-8c3f-8c13c3702c4b.gif" width="100%"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/satorucommit/Personalized-Study-Schedule-Generator-Agent">
-          <h4>📚 Study Schedule Generator Agent</h4>
-        </a>
-        <p>AI agent that generates personalized study plans based on goals and time constraints.</p>
-        <a href="https://github.com/satorucommit/Personalized-Study-Schedule-Generator-Agent">
-          <img src="https://user-images.githubusercontent.com/74038190/213760677-f4c5e5c1-48d3-4e27-8f42-86dc1b2c4b8d.gif" width="100%"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/satorucommit/Emotion-Adaptive-UI">
-          <h4>🎨 Emotion Adaptive UI</h4>
-        </a>
-        <p>Dynamic UI that adapts based on user emotions using AI-driven interaction logic.</p>
-        <a href="https://github.com/satorucommit/Emotion-Adaptive-UI">
-          <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/satorucommit/VED-S-UI-HUB">
-          <h4>🧩 VED's UI Hub</h4>
-        </a>
-        <p>Collection of modern UI components, animations, and 3D web experiences.</p>
-        <a href="https://github.com/satorucommit/VED-S-UI-HUB">
-          <img src="https://user-images.githubusercontent.com/74038190/213760685-4f8c7c3e-0c7c-4e3e-b5a0-3c5d93f8b5c7.gif" width="100%"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-
+<h3>🚀 UI Hub – Design Meets Interaction</h3>
+<p>
+A curated collection of modern, aesthetic, and interactive UI components 
+built with <b>Next.js, Tailwind & 3D Web Experiences</b>.
+</p>
+<a href="https://github.com/satorucommit/VED-S-UI-HUB">
+<img src="https://img.shields.io/badge/Explore%20UI%20Hub-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/240885217-6d9b9c55-1d3c-4a66-8c2f-0dba0a7c3c6b.gif" width="400"/>
+<br/><br/>
+<h3>✨ Featured Projects</h3>
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/satorucommit/SmartDoc-Formatter"><h4>🧠 SmartDoc Formatter</h4></a>
+<p>AI-powered document formatter that converts raw text into structured, readable content.</p>
+<a href="https://github.com/satorucommit/SmartDoc-Formatter">
+<img src="https://user-images.githubusercontent.com/74038190/213760697-3b0f3b75-8c4d-4f6b-8c3f-8c13c3702c4b.gif" width="100%"/>
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/satorucommit/Personalized-Study-Schedule-Generator-Agent"><h4>📚 Study Schedule Generator Agent</h4></a>
+<p>AI agent that generates personalized study plans based on goals and time constraints.</p>
+<a href="https://github.com/satorucommit/Personalized-Study-Schedule-Generator-Agent">
+<img src="https://user-images.githubusercontent.com/74038190/213760677-f4c5e5c1-48d3-4e27-8f42-86dc1b2c4b8d.gif" width="100%"/>
+</a>
+</td>
+</tr><tr>
+<td width="50%" align="center">
+<a href="https://github.com/satorucommit/Emotion-Adaptive-UI"><h4>🎨 Emotion Adaptive UI</h4></a>
+<p>Dynamic UI that adapts based on user emotions using AI-driven interaction logic.</p>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/satorucommit/VED-S-UI-HUB"><h4>🧩 VED's UI Hub</h4></a>
+<p>Collection of modern UI components, animations, and 3D web experiences.</p>
+<a href="https://github.com/satorucommit/VED-S-UI-HUB">
+<img src="https://user-images.githubusercontent.com/74038190/213760685-4f8c7c3e-0c7c-4e3e-b5a0-3c5d93f8b5c7.gif" width="100%"/>
+</a>
+</td>
+</tr>
+</table>
 </div>
-
 <br/>
 
 ### 📊 Metric Analytics
